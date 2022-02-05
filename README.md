@@ -20,4 +20,3 @@ We are building a new game called Vax-Man. The rules are similar to Pac-Man with
 </ul>
 To <b>play</b>, run pacman_game.py and use directional arrows to move.
 <br>
-Developed in collaboration with <a href="https://github.com/maxwell1997lzx">maxwell1997lzx</a>
