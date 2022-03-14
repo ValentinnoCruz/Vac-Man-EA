@@ -12,7 +12,7 @@ This repository contains the submitted patch files of the various tasks assigned
 
 ## For any queries/doubts:
 
-:envelope: contact@vcruz.dev :thumbsup:
+:envelope: contact@ValentinnoCruz.com :thumbsup:
 
 # Vac-Man in Python
 This is my personal version of Vax-man game using python, which is the first task of EA Software Engineering Virtual Experience
