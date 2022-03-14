@@ -4,7 +4,7 @@ This repository contains the submitted patch files of the various tasks assigned
 
 ## Website Link:
 
-[https://insidesherpa.s3.amazonaws.com/completion-certificates/Electronic%20Arts/x4KPrqxMDS4a5isKe_Electronic%20Arts_XkBjepDJF7FZh2v2a_1644082418633_completion_certificate.pdf]
+[Link](https://insidesherpa.s3.amazonaws.com/completion-certificates/Electronic%20Arts/x4KPrqxMDS4a5isKe_Electronic%20Arts_XkBjepDJF7FZh2v2a_1644082418633_completion_certificate.pdf)
 
 ## My Certificate of Completion 
 
